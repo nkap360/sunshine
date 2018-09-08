@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'hello@example.com';
+$to = 'dontito1@live.fr';
 $subject = 'Message from DTC Member';
 
 $name = "";
